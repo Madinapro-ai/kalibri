@@ -1,0 +1,2 @@
+a = "cef"
+print(a)
